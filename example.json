@@ -1,0 +1,21 @@
+{
+    "totalResults": 4,
+    "columnHeaders": [
+        {"name:":  "company_id",
+         "dataType": "STRING"
+        },
+        {"name:":  "plan_started_on",
+         "dataType": "STRING"
+        },
+        {"name:":  "plan |",
+         "dataType": "STRING"
+        }
+    ],
+    "results" :[
+        ["1", "20170101", "free trial"],
+        ["1", "20171013", "advanced"],
+        ["2", "20170214", "free trial"],
+        ["2", "20170228", "free"]
+    ]
+    
+}
